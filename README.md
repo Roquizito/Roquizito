@@ -35,7 +35,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://roquizito.github.io/Roki-s-portifolio/" target="_blank">
+  <a href="https://roquizito.github.io/Roques_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Acessar_Portfólio-0161C1?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:roquecrisostomogn@gmail.com">
