@@ -6,7 +6,7 @@
   <h1>✨ ROQUE CRISÓSTOMO ✨</h1>
   <p><strong>Desenvolvedor Full Stack Júnior & Quality Assurance (QA) | Acadêmico de Ciência da Computação @ UERN</strong></p>
 
-  <p>Nǐ hǎo! Apaixonado por tecnologia, ecossistema cybercore e soluções que integram lógica de programação e UX/UI Design.</p>
+  <p>Nǐ hǎo! Apaixonado por tecnologia e soluções que integram lógica de programação e Qualidade de Software.</p>
 
   <a href="https://roquizito.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Acessar_Portfólio-0161C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
@@ -39,16 +39,11 @@
 
 ### 📊 Estatísticas e Linguagens Mais Usadas
 
-<div align="center">
-  <a href="https://github.com/Roquizito">
-    <img src="https://github-readme-stats.vercel.app/api?username=Roquizito&show_icons=true&theme=custom&bg_color=010E36&title_color=6F96CC&text_color=ffffff&icon_color=0161C1&border_color=0161C1" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Roquizito">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roquizito&layout=compact&hide_border=false&bg_color=010E36&title_color=6F96CC&text_color=ffffff&icon_color=0161C1&border_color=0161C1" alt="Top Languages" width="48%" />
-  </a>
+<div style="width: 200px;">
+<a href="https://github.com/Roquizito/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roquizito&langs_count=8" alt="Top Langs" />
+</a>
 </div>
-
-<br/>
 
 ### 🔥 Frequência de Interações (Streak & Atividade)
 
@@ -57,3 +52,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roquizito&background=010E36&border=0161C1&stroke=0161C1&ring=0161C1&fire=0161C1&currStreakNum=ffffff&sideNums=6F96CC&currStreakLabel=6F96CC&sideLabels=6F96CC&dates=6F96CC" alt="GitHub Streak" width="97%" />
   </a>
 </div>
+
+Bootcamps Concluidos:
+
+[<img src="[https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png](https://www.dio.me/certificate/H4OL0CF7/share)" width="70">](Link do Certificado)
+
