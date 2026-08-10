@@ -3,6 +3,8 @@
   
   <br/><br/>
 
+  <hr style="border: 1px solid #013577;" />
+
   <p><strong>Desenvolvedor Full Stack Júnior & Quality Assurance (QA) | Acadêmico de Ciência da Computação @UERN</strong></p>
 
   <p>Nǐ hǎo! Apaixonado por tecnologia e soluções que integram lógica de programação e Qualidade de Software.</p>
