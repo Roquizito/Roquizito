@@ -39,7 +39,7 @@
 
 ### 📊 Estatísticas e Linguagens Mais Usadas
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Roquizito">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Roquizito&layout=compact&bg_color=010E36&title_color=6F96CC&text_color=ffffff&border_color=0161C1&v=1" alt="Top Langs" width="48%" />
   </a>
@@ -47,9 +47,9 @@
 
 ### 🔥 Frequência de Interações (Streak & Atividade)
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/Roquizito">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roquizito&background=010E36&border=0161C1&stroke=0161C1&ring=0161C1&fire=0161C1&currStreakNum=ffffff&sideNums=6F96CC&currStreakLabel=6F96CC&sideLabels=6F96CC&dates=6F96CC" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roquizito&background=010E36&border=0161C1&stroke=0161C1&ring=0161C1&fire=0161C1&currStreakNum=ffffff&sideNums=6F96CC&currStreakLabel=6F96CC&sideLabels=6F96CC&dates=6F96CC" alt="GitHub Streak" width="58%" />
   </a>
 </div>
 
