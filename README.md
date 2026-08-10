@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./Linkedin_Cover.png" width="100%" style="border-radius: 12px; border: 1px solid #0161C1; object-fit: cover;" alt="Header Background" />
-  
   <br/><br/>
-
   <hr style="border: 1px solid #013577;" />
 
   <p><strong>Desenvolvedor Full Stack Júnior & Quality Assurance (QA) | Acadêmico de Ciência da Computação @UERN</strong></p>
