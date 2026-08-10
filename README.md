@@ -39,11 +39,13 @@
 
 ### 📊 Estatísticas e Linguagens Mais Usadas
 
-<div style="width: 200px;">
-<a href="https://github.com/Roquizito/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roquizito&langs_count=8" alt="Top Langs" />
-</a>
+<div align="center">
+  <a href="https://github.com/Roquizito">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roquizito&langs_count=8&layout=compact&hide_border=false&bg_color=010E36&title_color=6F96CC&text_color=ffffff&icon_color=0161C1&border_color=0161C1" alt="Top Langs" />
+  </a>
 </div>
+
+<br/>
 
 ### 🔥 Frequência de Interações (Streak & Atividade)
 
@@ -53,7 +55,12 @@
   </a>
 </div>
 
-Bootcamps Concluidos:
+<br/>
 
-[<img src="[https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png](https://www.dio.me/certificate/H4OL0CF7/share)" width="70">](Link do Certificado)
+### 🎓 Bootcamps Concluídos
 
+<div align="center">
+  <a href="https://www.dio.me/certificate/H4OL0CF7/share" target="_blank" title="Ver Certificado">
+    <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70" alt="Certificado DIO" style="border-radius: 8px;" />
+  </a>
+</div>
