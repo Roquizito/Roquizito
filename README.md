@@ -44,14 +44,14 @@
 
 <br/>
 
-### 🎓 Certificações e Bootcamps
+### 🎓 Bootcamps e Certificações
 
 <div align="center">
-  <a href="https://www.dio.me/certificate/H4OL0CF7/share" target="_blank" title="Certificado DIO">
-    <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70" alt="Certificado DIO" style="border-radius: 8px; border: 1px solid #0161C1;" />
+  <a href="https://www.dio.me/certificate/H4OL0CF7/share" target="_blank" title="Ver Certificado DIO">
+    <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="80" alt="Certificado DIO" style="border-radius: 8px; border: 1px solid #0161C1;" />
   </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/feed/update/urn:li:activity:7437981881595269120/" target="_blank" title="Certificado OSF Academy - QA">
-    <img src="osfacademy_logo.jpeg" height="70" alt="Certificado OSF QA" style="border-radius: 8px; border: 1px solid #0161C1; object-fit: cover;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="LINK_DO_SEU_CERTIFICADO_OSF" target="_blank" title="Ver Certificado OSF">
+    <img src="./Certificado_OSF.png" width="80" alt="Certificado OSF QA" style="border-radius: 8px; border: 1px solid #0161C1;" />
   </a>
 </div>
