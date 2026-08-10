@@ -22,7 +22,7 @@
 
 <hr style="border: 1px solid #013577;" />
 
-### 💻 Stack Tecnológico & Ferramentas
+### Stack Tecnológico & Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-010E36?style=for-the-badge&logo=javascript&logoColor=6F96CC" />
@@ -36,7 +36,7 @@
 
 <br/>
 
-### 📊 Estatísticas e Linguagens Mais Usadas
+### Estatísticas e Linguagens Mais Usadas
 
 <div align="center">
   <a href="https://github.com/Roquizito"><img src="https://github-readme-stats-fast.vercel.app/api?username=Roquizito&show_icons=true&theme=custom&bg_color=010E36&title_color=6F96CC&text_color=ffffff&icon_color=0161C1&border_color=0161C1&v=1" alt="GitHub Stats" width="50%" /></a> <a href="https://github.com/Roquizito"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Roquizito&layout=compact&hide_border=false&bg_color=010E36&title_color=6F96CC&text_color=ffffff&icon_color=0161C1&border_color=0161C1&v=2" alt="Top Languages" width="38%" /></a>
@@ -44,7 +44,7 @@
 
 <br/>
 
-### 🎓 Bootcamps e Certificações
+### Bootcamps e Certificações
 
 <div align="center">
   <a href="https://www.dio.me/certificate/H4OL0CF7/share" target="_blank" title="Ver Certificado DIO">
