@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://github.com/Roquizito">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Roquizito&layout=compact&bg_color=010E36&title_color=6F96CC&text_color=ffffff&border_color=0161C1&v=1" alt="Top Langs" width="68%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Roquizito&layout=compact&bg_color=010E36&title_color=6F96CC&text_color=ffffff&border_color=0161C1&v=1" alt="Top Langs" width="60%" />
   </a>
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://github.com/Roquizito">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roquizito&background=010E36&border=0161C1&stroke=0161C1&ring=0161C1&fire=0161C1&currStreakNum=ffffff&sideNums=6F96CC&currStreakLabel=6F96CC&sideLabels=6F96CC&dates=6F96CC" alt="GitHub Streak" width="68%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roquizito&background=010E36&border=0161C1&stroke=0161C1&ring=0161C1&fire=0161C1&currStreakNum=ffffff&sideNums=6F96CC&currStreakLabel=6F96CC&sideLabels=6F96CC&dates=6F96CC" alt="GitHub Streak" width="60%" />
   </a>
 </div>
 
@@ -59,6 +59,6 @@
 
 <div align="center">
   <a href="https://www.dio.me/certificate/H4OL0CF7/share" target="_blank" title="Ver Certificado">
-    <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70" alt="Certificado DIO" style="border-radius: 12px;" />
+    <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70" alt="Certificado DIO" style="border-radius: 20px;" />
   </a>
 </div>
