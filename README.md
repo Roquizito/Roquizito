@@ -51,7 +51,7 @@
     <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70" alt="Certificado DIO" style="border-radius: 8px; border: 1px solid #0161C1;" />
   </a>
   
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="(https://www.linkedin.com/feed/update/urn:li:activity:7437981881595269120/)" target="_blank" title="Certificado OSF Academy - QA">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/feed/update/urn:li:activity:7437981881595269120/" target="_blank" title="Certificado OSF Academy - QA">
     <img src="osfacademy_logo.jpeg" height="70" alt="Certificado OSF QA" style="border-radius: 8px; border: 1px solid #0161C1; object-fit: cover;" />
   </a>
 </div>
