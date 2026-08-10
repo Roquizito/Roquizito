@@ -4,7 +4,7 @@
   <br/><br/>
 
   <h1> ROQUE CRISÓSTOMO </h1>
-  <p><strong>Desenvolvedor Full Stack Júnior & Quality Assurance (QA) | Acadêmico de Ciência da Computação @ UERN</strong></p>
+  <p><strong>Desenvolvedor Full Stack Júnior & Quality Assurance (QA) | Acadêmico de Ciência da Computação @UERN</strong></p>
 
   <p>Nǐ hǎo! Apaixonado por tecnologia e soluções que integram lógica de programação e Qualidade de Software.</p>
 
