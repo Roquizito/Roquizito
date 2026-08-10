@@ -5,7 +5,7 @@
 
   <p><strong>Desenvolvedor Full Stack Júnior & Quality Assurance (QA) | Acadêmico de Ciência da Computação @UERN</strong></p>
 
-  <p>Nǐ hǎo! Apaixonado por tecnologia e soluções que integram lógica de programação e Qualidade de Software.</p>
+  <p>Nǐ hǎo! Me chamo Roque Crisóstomo, sou estudante de Ciência da Computação pela Universidade do Estado do Rio Grande do Norte (UERN). Apaixonado por tecnologia e soluções que integram lógica de programação e Qualidade de Software.</p>
 
   <a href="https://roquizito.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Acessar_Portfólio-0161C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
