@@ -1,15 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=013577&height=200&section=header&text=Roque%20Crisóstomo&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Computer%20Science%20Student%20|%20Full%20Stack%20&%20QA&descAlignY=55&descAlign=62" />
-</div>
+  <img src="https://raw.githubusercontent.com/Roquizito/roquizito.github.io/main/public/images/fundo.png" width="100%" height="200" style="object-fit: cover; border-radius: 12px; border: 1px solid #0161C1;" alt="Header Background" />
+  
+  <br/><br/>
 
-<div align="center">
-  <h3>Nǐ hǎo! Bem-vindo ao meu hub de código.</h3>
-  <p>Desenvolvedor Full Stack Júnior e Quality Assurance (QA). Foco na interseção entre lógica de programação, Inteligência Artificial e UX/UI Design.</p>
+  <h1>✨ ROQUE CRISÓSTOMO ✨</h1>
+  <p><strong>Desenvolvedor Full Stack Júnior & Quality Assurance (QA) | Acadêmico de Ciência da Computação @ UERN</strong></p>
+
+  <p>Nǐ hǎo! Apaixonado por tecnologia, ecossistema cybercore e soluções que integram lógica de programação e UX/UI Design.</p>
+
+  <a href="https://roquizito.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Portfólio-0161C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/roquecrisostomo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-013577?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:roquecrisostomogn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-010E36?style=for-the-badge&logo=gmail&logoColor=6F96CC" alt="Gmail" />
+  </a>
 </div>
 
 <br/>
 
-### 💻 Stack Tecnológico
+<hr style="border: 1px solid #013577;" />
+
+### 💻 Stack Tecnológico & Ferramentas
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-010E36?style=for-the-badge&logo=javascript&logoColor=6F96CC" />
   <img src="https://img.shields.io/badge/Python-013577?style=for-the-badge&logo=python&logoColor=ffffff" />
@@ -22,23 +37,23 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 Estatísticas e Linguagens Mais Usadas
+
 <div align="center">
   <a href="https://github.com/Roquizito">
-    <img src="https://github-readme-stats.vercel.app/api?username=Roquizito&show_icons=true&theme=midnight-purple&bg_color=010E36&title_color=6F96CC&text_color=ffffff&border_color=0161C1" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Roquizito&show_icons=true&theme=custom&bg_color=010E36&title_color=6F96CC&text_color=ffffff&icon_color=0161C1&border_color=0161C1" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Roquizito">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roquizito&layout=compact&theme=midnight-purple&bg_color=010E36&title_color=6F96CC&text_color=ffffff&border_color=0161C1" alt="Linguagens mais utilizadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roquizito&layout=compact&hide_border=false&bg_color=010E36&title_color=6F96CC&text_color=ffffff&icon_color=0161C1&border_color=0161C1" alt="Top Languages" width="48%" />
   </a>
 </div>
 
 <br/>
 
+### 🔥 Frequência de Interações (Streak & Atividade)
+
 <div align="center">
-  <a href="https://roquizito.github.io/Roques_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar_Portfólio-0161C1?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:roquecrisostomogn@gmail.com">
-    <img src="https://img.shields.io/badge/Contato_Gmail-013577?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/Roquizito">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roquizito&background=010E36&border=0161C1&stroke=0161C1&ring=0161C1&fire=0161C1&currStreakNum=ffffff&sideNums=6F96CC&currStreakLabel=6F96CC&sideLabels=6F96CC&dates=6F96CC" alt="GitHub Streak" width="97%" />
   </a>
 </div>
