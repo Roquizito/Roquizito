@@ -41,11 +41,9 @@
 
 <div align="center">
   <a href="https://github.com/Roquizito">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roquizito&layout=compact&bg_color=010E36&title_color=6F96CC&text_color=ffffff&border_color=0161C1&v=1" alt="Top Langs" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Roquizito&layout=compact&bg_color=010E36&title_color=6F96CC&text_color=ffffff&border_color=0161C1&v=1" alt="Top Langs" width="48%" />
   </a>
 </div>
-
-<br/>
 
 ### 🔥 Frequência de Interações (Streak & Atividade)
 
