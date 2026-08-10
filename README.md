@@ -59,6 +59,6 @@
 
 <div align="center">
   <a href="https://www.dio.me/certificate/H4OL0CF7/share" target="_blank" title="Ver Certificado">
-    <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70" alt="Certificado DIO" style="border-radius: 8px;" />
+    <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70" alt="Certificado DIO" style="border-radius: 12px;" />
   </a>
 </div>
