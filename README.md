@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://roquizito.github.io/images/fundo.png" width="100%" height="200" style="object-fit: cover; border-radius: 12px; border: 1px solid #0161C1;" alt="Header Background" />
+  <img src="./Linkedin_Cover.png" width="100%" style="border-radius: 12px; border: 1px solid #0161C1; object-fit: cover;" alt="Header Background" />
   
   <br/><br/>
 
-  <h1> ROQUE CRISÓSTOMO </h1>
   <p><strong>Desenvolvedor Full Stack Júnior & Quality Assurance (QA) | Acadêmico de Ciência da Computação @UERN</strong></p>
 
   <p>Nǐ hǎo! Apaixonado por tecnologia e soluções que integram lógica de programação e Qualidade de Software.</p>
